@@ -1,2 +1,2 @@
-# xr112r2b
-A clone of the Acconeer XR112R2B
+# xcr112
+A clone of the Acconeer XC112 and XR112.
